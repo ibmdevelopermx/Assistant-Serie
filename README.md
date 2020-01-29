@@ -8,7 +8,7 @@
 [![IBM Cloud Watson Assistant][img-assistant]][url-assistant]
 [![Demo Assistant][img-demoassist]][url-demoassist]
 
-En este bootcamp podras entrenar los siguientes skills:
+# En este bootcamp podras entrenar los siguientes skills:
 
 1. ## Watson Assitant que puede hacer un cálculo de cuenta.
 
