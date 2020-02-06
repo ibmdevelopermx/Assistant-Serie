@@ -11,13 +11,16 @@
 # En este bootcamp podras entrenar los siguientes skills:
 
 1. ## Watson Assitant que puede hacer un cálculo de cuenta.
+    - [![Assistant-Cuenta][img-cuenta]][url-cuenta]
 
 2. ## Watson Assistant que se conecta a una base de datos utilizando Serverless.
+    - [![Assistant-Serverless][img-Server]][url-Server]
 
 3. ## Watson Assistant que se conecta a WORDPRESS y una base de datos DB2.
-
+    - [![Assistant-DB2][img-DB2]][url-DB2]
+<!-- 
 4. ## Watson Assistant en una aplicación movil.
-
+ -->
 
 
 
@@ -30,3 +33,9 @@
 [url-assistant]: https://www.ibm.com/cloud/watson-assistant/
 [img-demoassist]: https://img.shields.io/badge/DEMO-Watson%20Assistant-9cf.svg
 [url-demoassist]: https://watson-assistant-demo.ng.bluemix.net/
+[img-cuenta]: https://img.shields.io/badge/GIT-Watson%20Assistant%20Cuenta-blueviolet.svg
+[url-cuenta]: /Assistant-Cuenta
+[img-Server]: https://img.shields.io/badge/GIT-Watson%20Assistant%20Cloudant-blueviolet.svg
+[url-Server]: /Assistant-Cloudant
+[img-DB2]: https://img.shields.io/badge/GIT-Watson%20Assistant%20DB2-blueviolet.svg
+[url-DB2]: /Assistant-Cloudant
