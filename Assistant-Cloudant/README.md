@@ -11,7 +11,7 @@ Realiza un asistente virtual que utiliza los servicion de cloudant y despliegalo
 * Instalar [CLI de GitHub][url-github-cli] o instalar [GitHub Desktop][url-githubdesktop].
 * **Clonar este Repositorio**: [Watson Assistant Cloudant][url-repo].
 
-[url-repo]: https://github.com/ibmdevelopermx/Watson-Assistant-Cloudant
+[url-repo]: https://github.com/ibmdevelopermx/Assistant_Functions_Cloudant
 [url-github-join]: https://github.com/join
 [url-github-cli]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 [url-githubdesktop]: https://desktop.github.com/
