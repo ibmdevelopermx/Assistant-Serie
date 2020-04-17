@@ -38,4 +38,4 @@
 [img-Server]: https://img.shields.io/badge/GIT-Watson%20Assistant%20Cloudant-blueviolet.svg
 [url-Server]: /Assistant-Cloudant
 [img-DB2]: https://img.shields.io/badge/GIT-Watson%20Assistant%20DB2-blueviolet.svg
-[url-DB2]: /Assistant-Cloudant
+[url-DB2]: /Assistant-DB2
