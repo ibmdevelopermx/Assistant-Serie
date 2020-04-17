@@ -18,7 +18,7 @@
 [url-github-cli]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 [url-githubdesktop]: https://desktop.github.com/
 [url-node]: https://nodejs.org/es/download/
-[url-repo]: https://github.com/ibmdevelopermx/Watson-Assistant-Cuenta
+[url-repo]: https://github.com/ibmdevelopermx/Watson_Assistant_Taquero
 
 ## Cupones para profesores y estudiantes:
 
